@@ -1,0 +1,42 @@
+{
+  "node": {
+    "498d7bdc5afda118b8a1e436ca01de4fd6bf2a72": {
+      "workers": {
+        "app/(root)/(home)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/upcoming/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/previous/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/recordings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/(home)/page": "action-browser",
+        "app/(root)/(home)/upcoming/page": "action-browser",
+        "app/(root)/(home)/previous/page": "action-browser",
+        "app/(root)/(home)/recordings/page": "action-browser",
+        "app/(root)/(home)/personal-room/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser"
+      }
+    },
+    "6d78efdaa3ffd934c1293e371b6663925f5ceeec": {
+      "workers": {
+        "app/(root)/(home)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/upcoming/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/previous/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/recordings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/(home)/personal-room/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!",
+        "app/(root)/meeting/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fhrithikpb%2FDesktop%2FProjects%2Fzoom-clone%2Factions%2Fstream.actions.ts%22%2C%5B%22tokenProvider%22%2C%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/(home)/page": "action-browser",
+        "app/(root)/(home)/upcoming/page": "action-browser",
+        "app/(root)/(home)/previous/page": "action-browser",
+        "app/(root)/(home)/recordings/page": "action-browser",
+        "app/(root)/(home)/personal-room/page": "action-browser",
+        "app/(root)/meeting/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "CFVonkENuPZ6pSAeUnDWFEg3MKDfUkI3MQ7mma29X9M="
+}
