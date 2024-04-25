@@ -26,7 +26,7 @@
 
 ## Source of original code
 
-This repository has been referred from my favorite YouTube channel - JavaScript Mastery - and contains the code corresponding to an in-depth tutorial available on the YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
+This repository has been referred from my favorite YouTube channel - "JavaScript Mastery" - and contains the code corresponding to an in-depth tutorial available on the YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
 
 <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
